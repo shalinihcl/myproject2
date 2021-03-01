@@ -2,5 +2,5 @@
 using namespace std;
 main()
 {
-	std::cout<< "Hello World";
+	std::cout<< "welcome to got tutorials";
 }
