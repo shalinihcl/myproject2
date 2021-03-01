@@ -2,5 +2,7 @@
 using namespace std;
 main()
 {
-	std::cout<< "welcome to got tutorials";
+
+	std::cout<< "welcome to github tutorials";
+
 }
