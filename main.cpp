@@ -1,5 +1,5 @@
 #include <iostream.h>
 main()
 {
-	std::cout<< "Hello shalini";
+	std::cout<< "welcome to github tutorials";
 }
